@@ -1,5 +1,5 @@
-# Kingdom-Likes-Bot-
-Kingdom Likes Bot​
+# Kingdom-Likes-Bot
+**Kingdom Likes Bot**
 
 Use it at your own risk
 
